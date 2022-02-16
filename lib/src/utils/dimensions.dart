@@ -17,6 +17,8 @@ class Dimensions {
   static double height15 = screenHeight / 53.1;
   static double height20 = screenHeight / 39.8;
   static double height30 = screenHeight / 26.5;
+  static double height35 = screenHeight / 25;
+  static double height40 = screenHeight / 19.9;
   static double height45 = screenHeight / 17.7;
 
   //TODO: anchura dinamica, padding y margin
@@ -24,6 +26,9 @@ class Dimensions {
   static double width15 = screenHeight / 53.1;
   static double width20 = screenHeight / 39.8;
   static double width30 = screenHeight / 26.5;
+  static double width35 = screenHeight / 25;
+  static double width40 = screenHeight / 19.9;
+  static double width45 = screenHeight / 17.7;
 
   //TODO: font size
   static double font10 = screenHeight / 79.7;
@@ -37,8 +42,9 @@ class Dimensions {
   static double radius30 = screenHeight / 26.5;
 
   //TODO: icon size
-  static double iconSize24 = screenHeight / 33;
   static double iconSize16 = screenHeight / 49.8;
+  static double iconSize24 = screenHeight / 33;
+  static double iconSize32 = screenHeight / 22;
   static double iconSize40 = screenHeight / 19.9;
 
   //TODO: list view size
