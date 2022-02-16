@@ -2,15 +2,10 @@
 
 Algunos ejemplos en mi aprendizaje de flutter desde 0
 
-## Getting Started
+## Examples inspiration
 
-This project is a starting point for a Flutter application.
+- 01 [Finance mobile app dark theme By Ghulam Rasool](https://dribbble.com/shots/16728853-Finance-mobile-app-dark-theme)
 
-A few resources to get you started if this is your first Flutter project:
+## Examples for my
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 01 ![Finance mobile app dark theme](assets/readme/example01.png)
